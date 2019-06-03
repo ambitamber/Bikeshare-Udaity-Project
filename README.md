@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on June 03, 2019
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+By running this code, it will show statistics of the following cities: New York City, Washington, and Chicago.
 
 ### Files used
-Include the files used
+Bikeshare
+readme
+gitignore file to ignore csv and document files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I clone the project from the following website:
+https://github.com/udacity/pdsnd_github
