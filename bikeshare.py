@@ -75,7 +75,7 @@ def get_filters():
 
             #using input built-in function to get user input
 
-            city = input("Please enter name of the city to get the statistics!\n")
+            city = input("Please enter name of the city to see the data and get statistics!\n")
 
             #using lower function to make the convert the user entry to lowercase
 
@@ -591,7 +591,7 @@ def main():
 
         #prompting user to see the records
 
-        view_records = input("\nDO you want to see the records from the raw file(yes/no)\n")
+        view_records = input("\nDO you want to see the records from the raw file. Please type yes or no)\n")
 
         view_records = view_records.lower()
 
