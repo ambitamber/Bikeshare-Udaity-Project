@@ -591,7 +591,7 @@ def main():
 
         #prompting user to see the records
 
-        view_records = input("\nDO you want to see the records from the raw file(yes/no)\n")
+        view_records = input("\nDO you want to see the records from the raw file. Please type yes or no)\n")
 
         view_records = view_records.lower()
 
@@ -615,7 +615,7 @@ def main():
 
 
 
-        restart = input('\nWould you like to restart to get different statistics? Enter yes or no.\n')
+        restart = input('\nWould you like to restart to get different statistics? Please Enter yes or no.\n')
 
         if restart.lower() != 'yes':
 
