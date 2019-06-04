@@ -62,6 +62,7 @@ def get_filters():
         #suing print function to print the message
 
         print('Hello! Let\'s explore some US bikeshare data!!')
+        print('You will be exploring the data for three main city where bikeshare is most used.')
 
 
 
