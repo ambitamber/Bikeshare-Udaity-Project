@@ -24,7 +24,7 @@
 ### The contents of the project are:
 - bikeshare.py - The main file to run this project
 
-### It contains data for three cities.
+### It contains data for three cities. You can download 3 csv files from [here](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip).
 - chicago.csv
 - new_york_city.csv
 - washington.csv
